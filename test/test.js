@@ -1,1 +1,1 @@
-require("./test-github-ussd.js")
+require("./test-postbank-ussd.js")

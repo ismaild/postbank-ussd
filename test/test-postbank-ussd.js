@@ -2,7 +2,7 @@ var fs = require("fs");
 var assert = require("assert");
 var vumigo = require("vumigo_v01");
 // CHANGE THIS to your-app-name
-var app = require("../lib/github-ussd");
+var app = require("../lib/postbank-ussd");
 
 // This just checks that you hooked you InteractionMachine
 // up to the api correctly and called im.attach();
