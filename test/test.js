@@ -1,0 +1,1 @@
+require("./test-github-ussd.js")
